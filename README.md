@@ -20,7 +20,7 @@ Enjoy.
 ##if you wanna check the code
 Make sure you have Apache Netbeans in your comp
 
-clone the repository link ()
+clone the repository link (https://github.com/Lotany/lotany.github.io.git)
 
 open the project using Netbeans
 
