@@ -3,7 +3,7 @@
 licensed by Able
 diverse solutions software
 
-##Using
+#Executable Setup located in belsa folder. Follow  the instructions below.
 
 ##running the software
   "Belsa" database
@@ -18,7 +18,7 @@ Enjoy.
 
 
 ##if you wanna check the code
-Make sure you have Apache Netbeans in your comp
+Make sure you have Apache Netbeans and JDK installed in your comp
 
 clone the repository link (https://github.com/Lotany/lotany.github.io.git)
 
